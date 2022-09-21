@@ -1,0 +1,6 @@
+[submodule "scripts/mpvacious"]
+	path = scripts/mpvacious
+	url = https://github.com/Ajatt-Tools/mpvacious
+[submodule "scripts/mpv-sub-scripts"]
+	path = scripts/mpv-sub-scripts
+	url = https://github.com/Ben-Kerman/mpv-sub-scripts
