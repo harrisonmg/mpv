@@ -1,1 +1,1 @@
-C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -noexit Start-Process C:\Program` Files\mpv\mpv.exe %*
+wsl.exe -e bash /mnt/c/Users/Harrison/AppData/Roaming/mpv/mpv.sh %1
