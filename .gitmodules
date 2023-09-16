@@ -4,3 +4,6 @@
 [submodule "scripts/mpv-sub-scripts"]
 	path = scripts/mpv-sub-scripts
 	url = https://github.com/Ben-Kerman/mpv-sub-scripts
+[submodule "scripts/autosubsync-mpv"]
+	path = scripts/autosubsync-mpv
+	url = https://github.com/Ajatt-Tools/autosubsync-mpv
